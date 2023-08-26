@@ -1,0 +1,1 @@
+export type Language = "az" | "en" | "ru"
