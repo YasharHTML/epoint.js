@@ -1,5 +1,5 @@
-import { Currency } from "../misc/currency";
-import { Language } from "../misc/language";
+import { Currency } from "../../misc/currency";
+import { Language } from "../../misc/language";
 
 export interface PaymentRequest {
     amount: number;

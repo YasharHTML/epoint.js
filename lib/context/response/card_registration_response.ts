@@ -1,4 +1,4 @@
-import { BankStatus } from "../misc/status";
+import { BankStatus } from "../../misc/status";
 
 export interface CardRegistrationResponse {
     status: BankStatus;

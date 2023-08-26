@@ -1,4 +1,4 @@
-import { Status } from "../misc/status";
+import { Status } from "../../misc/status";
 
 export interface PaymentResponse {
     status: Status;

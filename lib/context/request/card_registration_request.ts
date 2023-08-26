@@ -1,4 +1,4 @@
-import { Language } from "../misc/language";
+import { Language } from "../../misc/language";
 
 export interface CardRegistrationRequest {
     language: Language;
